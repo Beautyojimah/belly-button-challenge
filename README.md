@@ -45,7 +45,7 @@ This project focuses on building an interactive web dashboard to explore the Bel
 - **Bootstrap**: For additional styling and layout.
 
 ## Acknowledgements
-The dataset used in this project is sourced from Belly Button Biodiversity.
+The dataset used in this project is sourced from [Belly Button Biodiversity](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
 
 
