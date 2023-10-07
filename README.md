@@ -1,4 +1,5 @@
 # Belly Button Biodiversity Dashboard
+![Dashboard Screenshot](./dashboard_screenshot/Belly_Button_Biodiversity_Dashboard_screenshot.png)
 
 ## Project Overview
 
@@ -28,9 +29,6 @@ This project focuses on building an interactive web dashboard to explore the Bel
 - **Bubble Chart**: Represents each sample in the dataset, providing information about the microbial species found in the selected individual.
 - **Gauge Chart**: Depicts the weekly washing frequency of the selected individual's belly button.
 
-## Screenshot
-
-![Dashboard Screenshot](./dashboard_screenshot/Belly_Button_Biodiversity_Dashboard_screenshot.png)
 
 ## Usage
 - Upon loading the dashboard, the default view displays the data for the first individual in the dataset.
